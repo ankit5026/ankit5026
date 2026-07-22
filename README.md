@@ -21,7 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit5026&" alt="ankit5026" /></p>
 -->
-### Hi there 👋
-
-# 💫 About Me:
-👋 Hello World! I'm Ankit Jangid, a passionate Computer Science Engineering student at Sri Shakthi Institute of Engineering and Technology. 🚀<br>🌐 Aspiring technologist with a keen interest in creating innovative solutions.<br>🔧 Proficient in Java, Power Bi and MySQL. I thrive on challenges and enjoy exploring the endless possibilities that technology offers.<br>🌱 Eager to collaborate on open-source projects, learn from the community, and contribute back. Let's connect and build something amazing together! 🤝✨<br>Happy coding! 🚀✨
